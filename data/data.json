@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Anirudh",
+        "id": "01",
+        "type": "Admin",
+        "createdBy": "Admin",
+        "lastAccessedTime": "2023-07-20 9:30 AM",
+        "contactNo": "12348907",
+        "emailId": "anirudh@gmail.com"
+    },
+    {
+        "name": "Shanu",
+        "id": "02",
+        "type": "User",
+        "createdBy": "User01",
+        "lastAccessedTime": "2023-07-28 10:00 PM",
+        "contactNo": "123786789",
+        "emailId": "shanu@gmail.com"
+    },
+    {
+        "name": "Mani",
+        "id": "03",
+        "type": "User",
+        "createdBy": "User02",
+        "lastAccessedTime": "2023-07-18 05:30 PM",
+        "contactNo": "123456789",
+        "emailId": "mani@gmail.com"
+    },
+    {
+        "name": "Shanmukh",
+        "id": "04",
+        "type": "User",
+        "createdBy":"User03",
+        "lastAccessedTime": "2023-07-16 07:00 PM",
+        "contactNo": "123456789",
+        "emailId": "shanumukh@gmail.com"
+    }   
+]
